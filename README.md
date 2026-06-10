@@ -7,7 +7,7 @@ LLM-powered multilingual customer service demo with prompt iteration log (pre-sa
 
 ## 内容
 - 📄 [multilingual_demo.pdf](https://github.com/user-attachments/files/28806833/multilingual_demo.pdf) — 需求分析、架构、技术决策 trade-off、ROI 测算、风险披露
-- 🔬 [可运行 Colab Demo](https://colab.research.google.com/drive/1F9iGY1Pn6qh41YSSuGkfW4dmDT3PUdDK?usp=sharing) — 含 v1→v2 prompt 迭代记录与原始输出对比
+- 🔬 [multilingual Demo](https://colab.research.google.com/drive/1F9iGY1Pn6qh41YSSuGkfW4dmDT3PUdDK?usp=sharing) — 含 v1→v2 prompt 迭代记录与原始输出对比
 - 💻 demo_zhipu.py — 核心代码（智谱 GLM API）
 
 ## 关键发现
